@@ -14,7 +14,7 @@ For exceeding specifications requirements:
 - Change country Top 10 track reference
 - Provide play, pause, previous and next buttons as a notification
 - Provide play, pause, previous and next buttons on screen lock 
-- Able to enable/disable notification in dropdown and lock screen
+- Ability to enable/disable notification in dropdown and lock screen
 
 
 
