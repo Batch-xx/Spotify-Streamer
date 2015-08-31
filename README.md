@@ -8,7 +8,7 @@ The project base requirements were to design a phone and tablet app that:
 - Allow scrub bar modification (timeline slider)
 
 For exceeding specifications requirements:
-- Provide a "Playing Now" button to view player dialog
+- Provide a "Now Playing" button to view player dialog
 - Share playing track
 - Play track remotely through a URL 
 - Change country Top 10 track reference
